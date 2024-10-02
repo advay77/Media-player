@@ -1,4 +1,4 @@
-# Media-player
+# Music-player
 //I have made a music player with the help of C++
 
 
